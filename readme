@@ -4,4 +4,10 @@ Git is a software for development.
 Git has a mutable index called stage ff.
 Git tracks changes ff.
 My stupid boss still prefers SVN.
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick AND simple.
+=======
+Now, my stupid boss prefers Git.
+Happy again.
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
